@@ -49,5 +49,5 @@
 - Instagram is written as 'h2' tag and instagram web is created using 'ifram' tag.
 - Google Map is written by using 'h2' tag and google map is setted using 'iframe' tag. Favourite song is written using 'h2' tag and song portion is written using 'iframe' tag.
 # Sumbission Required-
-Github Link[click here](https://namishagurunani.github.io/Weeklytest/)
+Github Link[click here](https://github.com/namishagurunani/Weeklytest)
 Hosted Link[click here]()
