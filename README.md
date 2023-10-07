@@ -50,4 +50,4 @@
 - Google Map is written by using 'h2' tag and google map is setted using 'iframe' tag. Favourite song is written using 'h2' tag and song portion is written using 'iframe' tag.
 # Sumbission Required-
 Github Link[click here](https://github.com/namishagurunani/Weeklytest)
-Hosted Link[click here]()
+Hosted Link[click here](https://namishagurunani.github.io/Weeklytest/)
